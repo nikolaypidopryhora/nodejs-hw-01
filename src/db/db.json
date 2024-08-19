@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "d89cc79e-6dea-43f1-8666-e37109c13a7b",
+    "name": "Frederick Stark-Armstrong",
+    "phone": "(348) 547-2675",
+    "email": "Amalia.Tromp28@gmail.com",
+    "job": "Central Metrics Coordinator"
+  },
+  {
+    "id": "134aaafb-24e1-47ec-a0a5-6e87500b74ed",
+    "name": "Sylvester Brekke",
+    "phone": "1-885-485-4584 x0116",
+    "email": "Name.Kunde83@hotmail.com",
+    "job": "Forward Accountability Facilitator"
+  },
+  {
+    "id": "7d297907-43e1-4016-9ea9-de45cf629bb6",
+    "name": "Dr. Cassandra Botsford",
+    "phone": "882-289-5271",
+    "email": "Burley_Dickens33@hotmail.com",
+    "job": "Dynamic Security Technician"
+  }
+]
